@@ -13,6 +13,8 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 | Aulas | Resumos |
 |-------| --------|
 |Criando e Clonando Repositórios | [Resumo]()
+|Salvando  Alterações  no Repositório Local | [Resumo]()
+|Desfazendo Auteracoes no Repositorio local| [Resumo]()
 
 ## 🔍 Referências
 
