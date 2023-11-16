@@ -1,2 +1,2 @@
-# Aula004|
+# Aula004|Enviado e Baixando Alterações com o Respositório Remoto
 Nessa aula aprendi  a como mandar os arquivos do repositório local para o repositório local, usando o comando git pull -u origin main. Foi usado o editor de código do próprio GitHub. Aprendemos a fazer commit pelo GitHub.
