@@ -12,9 +12,12 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 ## 💻 Resumos das Aulas
 | Aulas | Resumos |
 |-------| --------|
-|Criando e Clonando Repositórios | [Resumo]()
-|Salvando  Alterações  no Repositório Local | [Resumo]()
-|Desfazendo Auteracoes no Repositorio local| [Resumo]()
+|Criando e Clonando Repositórios | [Resumo](https://github.com/AdsonTanajura/dio-git-e-github/blob/main/resumos/aula-01.md)
+|Salvando  Alterações  no Repositório Local |[Resumo](https://github.com/AdsonTanajura/dio-git-e-github/blob/main/resumos/aula-02.md)
+|Desfazendo Auteracoes no Repositorio local|[Resumo](https://github.com/AdsonTanajura/dio-git-e-github/blob/main/resumos/aula-03.md)
+|Enviado e Baixando Alterações com o Respositório Remoto|[Resumo](https://github.com/AdsonTanajura/dio-git-e-github/blob/main/resumos/aula-04.md)
+|Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos|[Resumo](https://github.com/AdsonTanajura/dio-git-e-github/blob/main/resumos/aula-05.1.md)
+|Trabalahdno com Branches - Comandos úteis no Dia a Dia|[Resumo](https://github.com/AdsonTanajura/dio-git-e-github/blob/main/resumos/aula-05.2.md)
 
 ## 🔍 Referências
 
