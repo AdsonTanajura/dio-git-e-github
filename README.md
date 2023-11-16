@@ -19,3 +19,5 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 ## 🔍 Referências
 
 - [Digital Innovation One](https://lp.digitalinnovation.one/digital-ods)
+- [Elidiana Andrade](https://www.linkedin.com/in/elidianaandrade/)
+- [Meu Linkedin](https://www.linkedin.com/in/adson-nunes/)
