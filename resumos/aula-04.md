@@ -1,0 +1,2 @@
+# Aula004|
+Nessa aula aprendi  a como mandar os arquivos do repositório local para o repositório local, usando o comando git pull -u origin main. Foi usado o editor de código do próprio GitHub. Aprendemos a fazer commit pelo GitHub.

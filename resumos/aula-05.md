@@ -1,0 +1,2 @@
+ # Aula05
+ Aprendemos como criar um branche, usando o comando git checkout -b <branche> . Usando o comando o comando git checkout <branche> a gente pode ir de uma branche para outra, aprendemos também sobre o comando git branche -v, que usamos para ver o último commit de cada branche. Com o comando git branche, conseguimos ver todas as branches, e com o comando git branche -d <branche conseguimos deletar a branche. E com o comando git merge <branche> conseguimos mesclar a branche.
