@@ -1,0 +1,5 @@
+# Resumo Aula 01|Criando e Clonando um Repositório
+Nessa aula eu aprendi como criar e clonar um repositório no GitHub usando os comandos do Git. Usando o comando  git clone podemos clonar um repositório do GitHub para o Repositório Local e esse comando tem duas sintaxe uma é git clone URL nome-do-diretorio-local ( O nome não é obrigatório) que é usando para clonar o Repositório do GitHub e temos git clone URL --branch nome-da-branch --single-branch que é usado para clonar uma branch do Repositório.
+Já para criar um repositório temos duas opção que é criar um Repositório Local  usando o comando git init, ou podemos ir pelo GitHub e criar diretamente lá, depois só é clonar.
+Aprendemos um pouco de como usar o comando git remote, que é usado para linka  um Repositorio Remoto com o Repositorio Local. Usando o git remote -v é mostrado o Repositório que esta Linkado, se não mostra nada é porque não esta lincado nem um repositório. Então para linka usamos  git remote add origin  URL  (O nome defult é origin)
+Aprendemos também a configura o repository  pelo GitHub e como deletar.

@@ -1,0 +1,2 @@
+# Resumo Aula 02|Salvando  Alterações  no Repositório Local
+Nessa aula apredemos um pouco de markdown, como configura o readme, e aprendemos o comando git status, que é usado para ver a nossa área a de preparo, junto com o git status aprendemos o git log, usado para ver o histórico de commit. Reforçamos  também ambem um pouco do que vimos nas aulas anteriores erios sobre.
